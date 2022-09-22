@@ -1,16 +1,18 @@
 # 👨‍💻Ahdeyy
 
+<hr />
+
 **`Student , Developer`**
 
-🔭 I’m currently working on side projects
+
 
 🌱 I’m currently learning backend web development with django and go
 
-👯 I’m looking to collaborate on 
+📫 How to reach me: 
+<a href="https://twitter.com/ahdeyy21" >
+     <img align="left" alt="my twitter page" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+</a>
 
-📫 How to reach me: ...
-
-<br />
 
 <p align="left">
       <a href="https://github.com/Ahdeyyy?tab=followers">
