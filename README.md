@@ -1,6 +1,5 @@
 # 👨‍💻Ahdeyy
 
-<hr />
 
 **`Student , Developer`**
 
@@ -10,6 +9,7 @@ Welcome to my github profile 👋
 
 📫 How to reach me: [twitter](https://twitter.com/ahdeyy21)
 
+<hr />
 
 <p align="left">
       <a href="https://github.com/Ahdeyyy?tab=followers">
@@ -17,6 +17,7 @@ Welcome to my github profile 👋
       <a href="https://github.com/Ahdeyyy?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ahdeyyy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
+
 
 ### 🧰 Languages and Tools
 
@@ -34,6 +35,7 @@ Welcome to my github profile 👋
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
 
 
 ### 📊 Stats
