@@ -8,7 +8,9 @@
 
 🌱 I’m currently learning backend web development with django and go
 
-📫 How to reach me: <a href="https://twitter.com/ahdeyy21" >
+📫 How to reach me: 
+
+<a href="https://twitter.com/ahdeyy21" >
      <img align="left" alt="my twitter page" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 
