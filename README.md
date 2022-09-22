@@ -1,4 +1,4 @@
-# Hi there 👋 My I am Ahdeyy a computer science student 
+# Hi there 👋I am Ahdeyy a computer science student 
 
 <!--
 **Ahdeyyy/Ahdeyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
