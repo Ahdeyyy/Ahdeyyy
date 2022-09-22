@@ -10,7 +10,7 @@
 
 📫 How to reach me: ...
 
-</hr>
+<hr />
 
 <p align="left">
       <a href="https://github.com/Ahdeyyy?tab=followers">
