@@ -34,9 +34,8 @@
 
 ### 📊 Stats
 
-![Ahdeyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahdeyyy&show_icons=true&theme=gruvbox)
+![Ahdeyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahdeyyy&show_icons=true&theme=tokyonight)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 
 <!--
