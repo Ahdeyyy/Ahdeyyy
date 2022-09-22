@@ -3,9 +3,13 @@
 **`Student , Developer`**
 
 🔭 I’m currently working on side projects
+
 🌱 I’m currently learning backend web development with django and go
+
 👯 I’m looking to collaborate on 
+
 📫 How to reach me: ...
+
 
 <p align="left">
       <a href="https://github.com/Ahdeyyy?tab=followers">
