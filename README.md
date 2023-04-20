@@ -1,7 +1,7 @@
 # 👨‍💻Ahdeyy
 
 
-**`Student , Developer`**
+**`Web Developer`**
 
 Welcome to my github profile 👋
 
